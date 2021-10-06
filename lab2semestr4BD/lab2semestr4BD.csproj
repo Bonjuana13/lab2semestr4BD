@@ -55,6 +55,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="codeFirstModel1\Animal.cs" />
+    <Compile Include="codeFirstModel1\Cage.cs" />
+    <Compile Include="codeFirstModel1\Class.cs" />
+    <Compile Include="codeFirstModel1\Model1CodeFirstTest.cs" />
+    <Compile Include="codeFirstModel1\sysdiagram.cs" />
+    <Compile Include="codeFirstModel1\Zoo.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

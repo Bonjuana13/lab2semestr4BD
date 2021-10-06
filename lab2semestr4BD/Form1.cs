@@ -1,4 +1,5 @@
-﻿using lab2semestr4BD.Model;
+﻿using lab2semestr4BD.codeFirstModel1;
+/*using lab2semestr4BD.Model;*/
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -19,7 +20,8 @@ namespace lab2semestr4BD
         /// <summary>
         /// Связь с контекстом данных
         /// </summary>
-        DaBaTheZooEntities1 db = new DaBaTheZooEntities1();
+        /*DaBaTheZooEntities1 db = new DaBaTheZooEntities1();*/
+        Model1CodeFirstTest db = new Model1CodeFirstTest();
 
 
 
